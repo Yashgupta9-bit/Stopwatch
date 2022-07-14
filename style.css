@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 5px;
+    background-color: #ffa600;
+}
+
+h1{
+    color: #29233d;
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+    font-size: 80px;
+}
+
+button{
+border: solid 1px white;
+text-decoration:none;
+cursor:pointer;
+padding:18px 10px;
+width:180px;
+margin: 10px;
+ outline: none;
+}
+
+button:hover{
+    background:#fff;
+	border: solid 1px white;
+	color: #5a503e;
+    transition: all 0.5s ease-in-out;
+}
